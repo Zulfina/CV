@@ -1,0 +1,29 @@
+body {
+  background-color: #dddddd;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 3%;
+}
+h1, h2, h3
+{
+  color: #222831;
+}
+li {
+  font-family: monospace;
+}
+ul {
+  font-family: monospace;
+}
+p {
+  font-family: monospace;
+}
+table {
+  font-family: monospace;
+}
+label {
+  font-family: monospace;
+  font-size: 13px;
